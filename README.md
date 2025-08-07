@@ -1,10 +1,9 @@
-# Landslide_02
+# Mdanet
 ## 📦 Dataset
 
-The training dataset is too large to be uploaded directly to GitHub. It has been uploaded to Baidu Netdisk instead:
-
-Download link:：https://pan.baidu.com/s/15BB1e2OVqoMNe
-Extraction code:：ap12
+The training dataset is too large to be uploaded directly to GitHub. 
+Mvtecad：https://www.mvtec.com/company/research/datasets/mvtec-ad
+MTLAD:Please contact me via email.15955488556@163.com
 
 After downloading, extract the dataset and place it in the `datasets/` folder of this project.
 
