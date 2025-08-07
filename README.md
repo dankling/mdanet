@@ -9,7 +9,7 @@ After downloading, extract the dataset and place it in the `datasets/` folder of
 
 ---
 
-## 🧠Landslide_02 Training Guide
+## 🧠Mdanet Training Guide
 
 This project uses the **Landslide_02** model for training on a custom dataset. Follow these steps to set up and train the model:
 
